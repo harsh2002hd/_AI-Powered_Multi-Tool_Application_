@@ -1,0 +1,194 @@
+[
+  {
+    "id": "p001",
+    "name": "Sarah Chen",
+    "age": 28,
+    "location": "New York, NY",
+    "occupation": "AI Research Scientist",
+    "interests": ["artificial intelligence", "machine learning", "deep learning", "computer vision", "research", "academia", "python", "tensorflow", "pytorch"],
+    "values": ["innovation", "education", "collaboration", "scientific discovery", "mentorship"],
+    "personality": ["analytical", "curious", "detail-oriented", "collaborative", "ambitious"],
+    "hobbies": ["reading research papers", "hiking", "photography", "cooking", "playing piano"],
+    "goals": ["publish breakthrough research", "mentor junior researchers", "contribute to AI ethics"],
+    "preferences": {
+      "communication_style": "direct and analytical",
+      "meeting_preference": "coffee shops or research labs",
+      "interests_in_others": ["intellectual curiosity", "passion for learning", "ethical thinking"]
+    },
+    "exclusions": ["smoking", "lack of intellectual curiosity", "unethical behavior"],
+    "compatibility_factors": {
+      "ai_ml_interest": 0.95,
+      "research_focus": 0.90,
+      "intellectual_curiosity": 0.88,
+      "collaboration_style": 0.85
+    }
+  },
+  {
+    "id": "p002",
+    "name": "Marcus Johnson",
+    "age": 32,
+    "location": "San Francisco, CA",
+    "occupation": "Environmental Conservation Specialist",
+    "interests": ["environmental conservation", "sustainability", "climate change", "wildlife protection", "outdoor activities", "nature photography", "hiking", "camping"],
+    "values": ["environmental stewardship", "sustainability", "community", "education", "action"],
+    "personality": ["passionate", "outdoorsy", "community-minded", "practical", "optimistic"],
+    "hobbies": ["hiking", "bird watching", "gardening", "photography", "rock climbing"],
+    "goals": ["protect endangered species", "educate communities about conservation", "develop sustainable practices"],
+    "preferences": {
+      "communication_style": "enthusiastic and informative",
+      "meeting_preference": "outdoor locations or environmental centers",
+      "interests_in_others": ["environmental awareness", "outdoor activities", "community involvement"]
+    },
+    "exclusions": ["environmental harm", "lack of outdoor interest", "disrespect for nature"],
+    "compatibility_factors": {
+      "environmental_interest": 0.92,
+      "outdoor_activities": 0.88,
+      "community_involvement": 0.85,
+      "sustainability_focus": 0.90
+    }
+  },
+  {
+    "id": "p003",
+    "name": "Emily Rodriguez",
+    "age": 25,
+    "location": "Austin, TX",
+    "occupation": "Software Engineer",
+    "interests": ["software development", "web technologies", "open source", "tennis", "fitness", "travel", "cooking", "music"],
+    "values": ["innovation", "learning", "health", "work-life balance", "community"],
+    "personality": ["energetic", "social", "competitive", "creative", "organized"],
+    "hobbies": ["tennis", "gym workouts", "cooking", "traveling", "playing guitar"],
+    "goals": ["build impactful software", "improve tennis skills", "travel to 30 countries", "start a tech blog"],
+    "preferences": {
+      "communication_style": "friendly and direct",
+      "meeting_preference": "tennis courts, cafes, or tech meetups",
+      "interests_in_others": ["passion for technology", "active lifestyle", "curiosity about different cultures"]
+    },
+    "exclusions": ["sedentary lifestyle", "lack of ambition", "close-mindedness"],
+    "compatibility_factors": {
+      "tech_interest": 0.88,
+      "tennis_interest": 0.85,
+      "active_lifestyle": 0.90,
+      "learning_orientation": 0.82
+    }
+  },
+  {
+    "id": "p004",
+    "name": "David Kim",
+    "age": 29,
+    "location": "Seattle, WA",
+    "occupation": "Data Scientist",
+    "interests": ["data science", "statistics", "machine learning", "physics", "quantum computing", "chess", "classical music", "philosophy"],
+    "values": ["intellectual rigor", "truth", "elegance", "continuous learning", "ethical AI"],
+    "personality": ["thoughtful", "methodical", "introspective", "patient", "principled"],
+    "hobbies": ["playing chess", "listening to classical music", "reading philosophy", "solving puzzles", "meditation"],
+    "goals": ["advance AI safety research", "master chess", "contribute to quantum computing", "write a book on AI ethics"],
+    "preferences": {
+      "communication_style": "thoughtful and precise",
+      "meeting_preference": "quiet cafes, libraries, or chess clubs",
+      "interests_in_others": ["intellectual depth", "ethical thinking", "passion for learning"]
+    },
+    "exclusions": ["superficial conversations", "unethical behavior", "lack of intellectual curiosity"],
+    "compatibility_factors": {
+      "ai_ml_interest": 0.90,
+      "physics_interest": 0.85,
+      "intellectual_depth": 0.92,
+      "ethical_focus": 0.88
+    }
+  },
+  {
+    "id": "p005",
+    "name": "Lisa Thompson",
+    "age": 31,
+    "location": "Boston, MA",
+    "occupation": "Biomedical Researcher",
+    "interests": ["biomedical research", "genetics", "public health", "tennis", "yoga", "reading", "cooking", "travel"],
+    "values": ["health", "scientific discovery", "helping others", "work-life balance", "continuous learning"],
+    "personality": ["compassionate", "analytical", "balanced", "curious", "determined"],
+    "hobbies": ["tennis", "yoga", "reading scientific journals", "cooking healthy meals", "traveling"],
+    "goals": ["develop breakthrough medical treatments", "improve public health", "maintain work-life balance", "learn new languages"],
+    "preferences": {
+      "communication_style": "warm and professional",
+      "meeting_preference": "tennis courts, yoga studios, or research facilities",
+      "interests_in_others": ["passion for health/science", "active lifestyle", "intellectual curiosity"]
+    },
+    "exclusions": ["unhealthy habits", "lack of empathy", "disrespect for science"],
+    "compatibility_factors": {
+      "health_science_interest": 0.88,
+      "tennis_interest": 0.82,
+      "active_lifestyle": 0.85,
+      "intellectual_curiosity": 0.90
+    }
+  },
+  {
+    "id": "p006",
+    "name": "Alex Morgan",
+    "age": 27,
+    "location": "Denver, CO",
+    "occupation": "Adventure Guide",
+    "interests": ["outdoor adventures", "rock climbing", "skiing", "environmental conservation", "photography", "travel", "sustainability", "teaching"],
+    "values": ["adventure", "environmental protection", "education", "authenticity", "community"],
+    "personality": ["adventurous", "outgoing", "patient", "knowledgeable", "encouraging"],
+    "hobbies": ["rock climbing", "skiing", "photography", "teaching outdoor skills", "exploring new trails"],
+    "goals": ["start an outdoor education program", "document adventures", "promote environmental conservation", "help others discover nature"],
+    "preferences": {
+      "communication_style": "enthusiastic and encouraging",
+      "meeting_preference": "outdoor locations, climbing gyms, or adventure shops",
+      "interests_in_others": ["love for nature", "adventure spirit", "environmental awareness"]
+    },
+    "exclusions": ["fear of heights", "disrespect for nature", "lack of physical activity"],
+    "compatibility_factors": {
+      "outdoor_activities": 0.95,
+      "environmental_interest": 0.88,
+      "adventure_spirit": 0.92,
+      "teaching_orientation": 0.85
+    }
+  },
+  {
+    "id": "p007",
+    "name": "Rachel Green",
+    "age": 26,
+    "location": "Portland, OR",
+    "occupation": "UX Designer",
+    "interests": ["user experience design", "human-centered design", "psychology", "art", "tennis", "yoga", "coffee", "sustainability"],
+    "values": ["empathy", "creativity", "sustainability", "user advocacy", "continuous learning"],
+    "personality": ["empathetic", "creative", "detail-oriented", "collaborative", "mindful"],
+    "hobbies": ["tennis", "yoga", "painting", "exploring coffee shops", "gardening"],
+    "goals": ["design impactful user experiences", "promote sustainable design", "learn new design tools", "start a design blog"],
+    "preferences": {
+      "communication_style": "empathetic and collaborative",
+      "meeting_preference": "coffee shops, tennis courts, or design studios",
+      "interests_in_others": ["creativity", "empathy", "sustainability focus"]
+    },
+    "exclusions": ["lack of empathy", "disrespect for users", "unethical design practices"],
+    "compatibility_factors": {
+      "design_interest": 0.88,
+      "tennis_interest": 0.80,
+      "sustainability_focus": 0.85,
+      "empathy_level": 0.90
+    }
+  },
+  {
+    "id": "p008",
+    "name": "James Wilson",
+    "age": 30,
+    "location": "Chicago, IL",
+    "occupation": "Financial Analyst",
+    "interests": ["finance", "economics", "data analysis", "tennis", "golf", "reading", "travel", "cooking"],
+    "values": ["integrity", "excellence", "continuous improvement", "work-life balance", "family"],
+    "personality": ["analytical", "reliable", "competitive", "social", "ambitious"],
+    "hobbies": ["tennis", "golf", "reading financial news", "cooking", "traveling"],
+    "goals": ["advance in finance career", "improve tennis ranking", "start investment portfolio", "learn new cuisines"],
+    "preferences": {
+      "communication_style": "professional and direct",
+      "meeting_preference": "tennis courts, golf courses, or business centers",
+      "interests_in_others": ["professional ambition", "analytical thinking", "active lifestyle"]
+    },
+    "exclusions": ["unethical behavior", "lack of ambition", "poor work ethic"],
+    "compatibility_factors": {
+      "finance_interest": 0.85,
+      "tennis_interest": 0.82,
+      "professional_ambition": 0.88,
+      "analytical_thinking": 0.85
+    }
+  }
+]
