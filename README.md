@@ -89,31 +89,31 @@ This will open the application in your web browser, typically at `http://localho
 
 #### Application Homepage
 
-![Screenshot of Application Homepage](screenshots/home.png)
+![Screenshot of Application Homepage](Screenshots/home.png)
 
 #### PDF to Audiobook Converter in Action
 
-![Screenshot of PDF to Audiobook Converter](screenshots/audiobook.png)
+![Screenshot of PDF to Audiobook Converter](Screenshots/audiobook.png)
 
 #### PDF to Audiobook Converter Result
 
-![Screenshot of PDF to Audiobook Converter Result](screenshots/audiobook_result.png)
+![Screenshot of PDF to Audiobook Converter Result](Screenshots/audiobook_result.png)
 
 #### Persona Search Interface
 
-![Screenshot of Persona Search](screenshots/nlp.png)
+![Screenshot of Persona Search](Screenshots/nlp.png)
 
 #### Persona Search Result
 
-![Screenshot of Persona Search Result](screenshots/nlp_result.png)
+![Screenshot of Persona Search Result](Screenshots/nlp_result.png)
 
 #### Storybook Generator Output
 
-![Screenshot of Storybook Generator](screenshots/storybook.png)
+![Screenshot of Storybook Generator](Screenshots/storybook.png)
 
 #### Storybook Generator Result
 
-![Screenshot of Storybook Generator Result](screenshots/storybook_result.png)
+![Screenshot of Storybook Generator Result](Screenshots/storybook_result.png)
 
 A comprehensive Python application that converts PDF documents into high-quality audiobooks with multiple voice options. This tool supports 4 different voices (British/American, Male/Female) and multiple text-to-speech engines for reliable audio generation.
 
